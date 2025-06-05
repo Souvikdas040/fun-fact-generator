@@ -1,12 +1,42 @@
-# React + Vite
+# 🧠 Fun Fact Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and interactive React (Vite) web app that fetches fun facts from multiple public APIs. You can choose between Cat Facts, Jokes, Advice, and Trivia — and generate something random with a click!
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🔁 Random facts at your fingertips
+- 📚 Supports multiple APIs:
+  - Cat Facts
+  - Random Jokes
+  - Advice
+  - Trivia
+- ⚡ Built using React + Vite
+- 🎨 Styled with Tailwind CSS
+- 💬 Async API calls using `fetch` and `async/await`
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🖼️ Preview
+
+![App Screenshot](./screenshot.png)
+
+---
+
+## 🛠️ Built With
+
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- Public APIs (CatFact, Joke API, Advice Slip, Useless Facts)
+
+---
+
+## 📦 Getting Started
+
+### 1. Clone the repo
+
+```bash
+git clone https://github.com/YOUR_USERNAME/fun-fact-generator.git
+cd fun-fact-generator

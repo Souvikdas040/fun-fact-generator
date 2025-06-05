@@ -40,3 +40,41 @@ A simple and interactive React (Vite) web app that fetches fun facts from multip
 ```bash
 git clone https://github.com/YOUR_USERNAME/fun-fact-generator.git
 cd fun-fact-generator
+```
+
+### 2. Install dependencies
+
+```bash
+npm install
+```
+
+### 3. Run the dev server
+
+```bash
+npm run dev
+```
+
+---
+
+## 🗃️ Project Structure
+```kotlin
+📦fun-fact-generator
+ ┣ 📄 index.html
+ ┣ 📄 package.json
+ ┣ 📁 src
+ ┃ ┣ 📄 App.jsx
+ ┃ ┗ 📄 main.jsx
+ ┗ 📄 tailwind.config.js
+```
+
+---
+
+## 🙌 Acknowledgements
+
+• catfact.ninja
+
+• Official Joke API
+
+• Advice Slip API
+
+• Useless Facts

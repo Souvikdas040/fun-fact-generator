@@ -71,10 +71,7 @@ npm run dev
 
 ## 🙌 Acknowledgements
 
-• [catfact.ninja](https://catfact.ninja/fact)
-
-• [Official Joke API](https://official-joke-api.appspot.com/random_joke)
-
-• [Advice Slip API](https://api.adviceslip.com/advice)
-
-• [Useless Facts](https://uselessfacts.jsph.pl/random.json?language=en)
+- [catfact.ninja](https://catfact.ninja/fact)
+- [Official Joke API](https://official-joke-api.appspot.com/random_joke)
+- [Advice Slip API](https://api.adviceslip.com/advice)
+- [Useless Facts](https://uselessfacts.jsph.pl/random.json?language=en)

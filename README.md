@@ -69,6 +69,14 @@ npm run dev
 
 ---
 
+## 📌 Live Demo
+[fun-fact-generator](https://fun-fact-generator-aa63.onrender.com)
+
+---
+
+## 📜 License
+This project is licensed under the MIT License — see the [LICENSE](./license) file for details.
+
 ## 🙌 Acknowledgements
 
 - [catfact.ninja](https://catfact.ninja/fact)
